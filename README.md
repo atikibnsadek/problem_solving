@@ -1,2 +1,2 @@
-# C-programming
-basic c concepts
+# C/C++ programming
+basic problem solving
